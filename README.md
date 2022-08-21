@@ -9,7 +9,7 @@
 <h2>Termux</h2>
 <h3>$ pkg install python</h3>
 <h3>$ pkg install git</h3>
-<h3>$ git clone https://github.com/zScorpion16x/Draugen-IpTracker.git</h3>
+<h3>$ git clone https://github.com/ShakeLayrus/Luxnight---Tool.git</h3>
 <h3>$ pip install colorama</h3>
 <h3>$ pip install requests</h3>
 <h2>Correr La Tool</h2>
@@ -20,7 +20,7 @@
 <h2>Windows</h2>
 <h3>$ apt install python</h3>
 <h3>$ apt install git</h3>
-<h3>$ git clone https://github.com/zScorpion16x/Draugen-IpTracker.git</h3>
+<h3>$ git clone https://github.com/ShakeLayrus/Luxnight---Tool.git</h3>
 <h3>$ pip install colorama</h3>
 <h3>$ pip install requests</h3>
 <h2>Correr La Tool</h2>
@@ -31,7 +31,7 @@
 <h2>Linux</h2>
 <h3>$ apt install python3</h3>
 <h3>$ apt install git</h3>
-<h3>$ git clone https://github.com/zScorpion16x/Draugen-IpTracker.git</h3>
+<h3>$ git clone https://github.com/ShakeLayrus/Luxnight---Tool.git</h3>
 <h3>$ pip install colorama</h3>
 <h3>$ pip install requests</h3>
 <h2>Correr La Tool</h2>
@@ -40,5 +40,5 @@
 <h3>$ python3 Luxnight.py</h3>
 <br>
 <h2>Apoyame</h2>
-<h4>Contacto: Shake</h4>
+<h4>Contacto: Shake#2437</h4>
 <h4>YouTube: https://www.youtube.com/channel/UC2sh94ZXUbVZ6DJoTFA8VNw</h4>
