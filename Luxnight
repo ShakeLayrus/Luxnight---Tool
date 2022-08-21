@@ -46,7 +46,7 @@ try:
         print(f"{Fore.LIGHTGREEN_EX}+----------------------------+")
         print(f"{Fore.GREEN}[+] {Fore.BLUE}Código Zip: {Fore.YELLOW}", data['zip'])
         print(f"{Fore.LIGHTGREEN_EX}+----------------------------+")
-        print(f"{Fore.GREEN}[+] {Fore.CYAN}Contacto: zScorpion16@proton.me")
+        print(f"{Fore.GREEN}[+] {Fore.CYAN}Contacto: Shake#2437")
 
 except KeyboardInterrupt:
         print(f"\n")
